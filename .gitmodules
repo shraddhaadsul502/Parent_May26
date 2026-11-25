@@ -1,3 +1,4 @@
-[submodule "child1"]
-	path = child1
+[submodule "childFolder"]
+	path = childFolder
 	url = https://github.com/shraddhaadsul502/Child_May26.git
+
